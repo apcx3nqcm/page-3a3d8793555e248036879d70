@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9e54516de3d48c5bb000c706",
+  "owner": "apcx3nqcm",
+  "repo": "page-3a3d8793555e248036879d70",
+  "title": "StreemIEPL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3a3d8793555e248036879d70",
+      "a": "StreemIEPL",
+      "b": "机场官网线路发布页",
+      "entity": "StreemIEPL",
+      "brand": "StreemIEPL",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c265a9da83f5add1b1c759fc06f9e15ccc0114df571eb7d0ba8eb97c1b812e24",
+      "content": {
+        "primary_entity": "StreemIEPL",
+        "keyword1": "StreemIEPL",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 StreemIEPL 客户端，Windows、macOS、Android、iOS 均有对应版本，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "登录 StreemIEPL 用户中心，依据设备数量与流量需求挑选套餐，完成订阅配置开始稳定的跨境访问。",
+          "AI_CLOSING_TITLE": "选择匹配套餐",
+          "AI_DESCRIPTION": "，可根据使用设备数量、每月流量消耗和线路偏好，在基础版、旗舰版与团队版之间灵活选择。基础版适合三台以内设备轻度使用，旗舰版提供 300GB 流量与 IPLC 专线优化，团队版满足二十台设备的高带宽需求。所有套餐按年付均有优惠，订阅后按照客户端文档导入节点即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "Windows 可选用 Clash for Windows 或 v2rayN，macOS 推荐 ClashX，手机端可用 Shadowrocket 或 Clash for Android，导入订阅链接后按客户端文档完成配置。",
+          "AI_FAQ_ANSWER_3": "旗舰版和团队版支持更多设备同时在线，基础版适合个人少量设备。家庭共享建议选择旗舰版或团队版，避免多设备登录时互相挤占连接数。",
+          "AI_FAQ_ANSWER_4": "月付适合短期需求，年付平均每月更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用按年付费更划算。",
+          "AI_FAQ_ANSWER_5": "订阅导入后节点信息更新可重新获取，建议先阅读对应客户端的配置文档。遇到连接问题可提交工单，旗舰版与团队版享有优先响应。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "不同设备应该用什么客户端？",
+          "AI_FAQ_QUESTION_3": "多设备同时在线该选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪种更划算？",
+          "AI_FAQ_QUESTION_5": "导入订阅后如何更新节点信息？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和线路要求出发，选择最合适的 StreemIEPL 套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按实际使用设备数量挑选，避免连接数不足。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 到 1000GB 多档流量可选，轻度浏览选基础版，高清流媒体与游戏加速推荐旗舰版。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付平均成本更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按设备数选",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TITLE_3": "按付费周期选",
+          "AI_GUIDE_INTRO": "三步完成 StreemIEPL 套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "StreemIEPL 提供多种流量与设备数量的海外加速套餐，覆盖基础浏览到团队协作场景。选择合适版本后，在常用设备上导入订阅，即可按客户端文档完成节点配置。",
+          "AI_HERO_SUBTITLE": "多套餐适配各类设备与流量需求",
+          "AI_HIGHLIGHT_1": "基础版至团队版三档可选",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "按年付享更低月均成本",
+          "AI_PLANS_INTRO": "对照设备数量、月流量与线路特征，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版、团队版中确定目标套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看线路节点要求，确保所选套餐满足使用环境。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按对应客户端文档导入节点，完成配置即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "StreemIEPL 套餐选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "q1ek6z.cn",
+    "host": "q1ek6z.cn"
+  },
+  "file_hashes": {
+    "index.html": "a861229b794cda252c7e5932e572349521bef33dcd4c3e26e5d70731491186c2",
+    "sitemap.xml": "55e78e215dd7956501470acc5f8cbe0435f9abe723c484b3de242061aeceab58",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bb745aa3175c44afa8196eb3c41733804729a8c953ac126eb84cf9390426f0d7",
+    "robots.txt": "272a73de4cb16b2f440be08118632f7b461aea6d86a863aed69e5f86e91860f9",
+    "c59d007e697b32d8d65af1cdec1c244d.txt": "745f63e17ed3f1fad5bdaaa9650a7d8440fcc4c7641aebc5290d14033784531d"
+  },
+  "revision": "bbc3a08ac375b3bbed29147207830951753567b3e108e29002f7e3b9cf57e68b"
+}
